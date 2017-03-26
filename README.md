@@ -18,4 +18,4 @@ https://github.com/codarrenvelvindron/amt-openwrt/releases/download/1.1.0/amt-op
 2. ver 1.1.1  - archive from grumpyoldtroll latest commits26032017 
 
 
-cbd8a454fb4ac0117e11ec05b40bfd2d  amt-1.1.1.tar.gz
+dd38613637c9e632fb444898e29a60de  amt-1.1.1.tar.gz
