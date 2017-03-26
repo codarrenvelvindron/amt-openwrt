@@ -3,21 +3,19 @@ All rights reserved.
 
 Automatic Multicast without Explicit Tunnels (AMT)
 
-AMT packages for openwrt (under development)
+AMT packages for OpenWRT-DD (under development)
 
 
 Download realeases can be found at the following URLS:
 
-1.AMT-openwrt  - compressed archive from https://github.com/GrumpyOldTroll/amt
+1.  - compressed archive from https://github.com/GrumpyOldTroll/amt
 
 https://github.com/codarrenvelvindron/amt-openwrt/releases/download/1.1.0/amt-openwrt-1.1.0.tar.gz
 
-MD5: 01733ee838de6abcf5e6fed2f7d191e5  amt-openwrt-1.1.0.tar.gz
+32e4dab1d12b080753882073ac3a60a9  amt-1.1.0.tar.gz
 
 
-2. amt - archived of compiled code on x86_64
+2. ver 1.1.1  - archive from grumpyoldtroll latest commits26032017 
 
-https://github.com/codarrenvelvindron/amt-openwrt/releases/download/1.1.1/amt-1.1.0.tar.gz
 
-MD5: 57fb0d9c27965d1b0a8e0956020495ce  amt-1.1.0.tar.gz
-
+cbd8a454fb4ac0117e11ec05b40bfd2d  amt-1.1.1.tar.gz
